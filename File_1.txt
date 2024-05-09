@@ -1,3 +1,4 @@
 echo %date% %time% >>C:\temp\GHT_LOCAL\GHT\File_1.txt
 ƒçet. 09. 05. 2024 11:40:20,51 
 üet. 09. 05. 2024 12:18:56,90 druga sprememba
+üet. 09. 05. 2024 17:44:21,41 
