@@ -1,0 +1,2 @@
+echo %date% %time% >>C:\temp\GHT_LOCAL\GHT\File_1.txt
+čet. 09. 05. 2024 11:40:20,51 
